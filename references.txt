@@ -1,1 +1,2 @@
-http://flask.pocoo.org/docs/1.0/tutorial/layout/
+http://ruby.bastardsbook.com/chapters/html-parsing/
+https://github.com/rest-client/rest-client
