@@ -1,0 +1,24 @@
+{
+  "name": "classifieds-helper",
+  "version": "1.0.0",
+  "description": "Crawls various classifieds sites(craigslist, kijiji, used.ca)",
+  "main": "classfieds-helper.js",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Baelx/cc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Baelx/cc/issues"
+  },
+  "homepage": "https://gitlab.com/Baelx/cc#readme"
+}

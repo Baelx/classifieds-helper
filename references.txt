@@ -1,2 +1,3 @@
-http://ruby.bastardsbook.com/chapters/html-parsing/
-https://github.com/rest-client/rest-client
+https://dev.to/aurelkurtula/introduction-to-web-scraping-with-nodejs-9h2
+
+https://www.scraperapi.com/dashboard
